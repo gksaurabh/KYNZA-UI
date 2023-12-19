@@ -3,7 +3,7 @@ This repo's is provides a reference for the scope of the work I did while workin
 
 I was tasked with redesigning the User Interface for their [Android App](https://play.google.com/store/apps/details?id=ca.kynzagroup.www&hl=en_CA&gl=US&pli=1).
 
-[Here is the final UI-Walkthrough:](https://www.youtube.com/watch?v=Hc79sDi3f0U "Kynza UI Walkthrough")
+[Here is the final UI-Walkthrough:](https://youtu.be/kZOVILfJ2cw "Kynza UI Walkthrough")
 
 
 ## My Approach
